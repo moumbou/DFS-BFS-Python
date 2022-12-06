@@ -1,0 +1,3 @@
+git remote add origin https://github.com/moumbou/DFS-BFS-Python.git
+git branch -M main
+git push -u origin main
